@@ -1,6 +1,7 @@
 ### bookmark-platform
 a bookmark management platform
 
+### Demo image (slow to load, wait patiently)
 ![image](https://github.com/YuZongYangHi/bookmark-platform/blob/main/img/1f412090-6377-48d8-ba9e-dd680a904e77.gif)
 
 ### Features
